@@ -4,7 +4,7 @@
 **iamapurba2003/iamapurba2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
 <p align="center">
-Hey, I am Apurba Ghosh [iamapurba2003](https://linkedin.com/in/iamapurba2003), a Developer by Profession ✨ and Businessman by Choice ⚡. Always keen to learn new things about anything. Open to Suggestions and Collaborations. Would love to do any work which adds Value to Others life as well as teaches me a lifetime's experience.
+Hey, I am Apurba Ghosh [![iamapurba2003](https://linkedin.com/in/iamapurba2003)], a Developer by Profession ✨ and Businessman by Choice ⚡. Always keen to learn new things about anything. Open to Suggestions and Collaborations. Would love to do any work which adds Value to Others life as well as teaches me a lifetime's experience.
 Go on, Have a brief intro about me. </p>
 
 - 🔭 I’m currently working on ...  E - Commerce Website, Platform to Connect Developers ( Developers Paradise ) ~ Ongoing
@@ -18,11 +18,11 @@ Go on, Have a brief intro about me. </p>
 
 
 
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://khushboogoel01.github.io)
-<h1 align="center">Hi 👋, I'm Khushboo Goel</h1>
-<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+[![MasterHead](https://github.com/iamapurba2003/React-Tutorials/blob/master/assets/React.jpeg)](https://linkedin.in/in/iamapurba2003)
+<h1 align="center">Hi 👋, I'm Apurba Ghosh</h1>
+<h3 align="center">Developer on Mission to accomplish the, Impossible!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamapurba2003&label=Profile%20views&color=129e00&style=plastic" alt="iamapurba2003" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 👨‍💻 You can also check out my Organisation at [CODEGEN](https://code.gen.in/)
