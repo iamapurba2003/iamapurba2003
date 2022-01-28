@@ -16,7 +16,9 @@ Go on, Have a brief intro about me. </p>
 - 😄 Pronouns: ... Mr. Genius, Leader, Brother, Philosphical Man & Visionary
 - ⚡ Fun fact **You need not to have Skills to develop Humour Other than Will**
 
-
+<div>
+ <a href="https://app.daily.dev/iamapurba2003"><img src="https://api.daily.dev/devcards/d8dd1150be5549329f5f37876060ef0d.png?r=eha" width="400" alt="Dust Of Snow's Dev Card"/></a>
+</div>
 
 [![MasterHead](https://github.com/iamapurba2003/React-Tutorials/blob/master/assets/React.jpeg)](https://linkedin.in/in/iamapurba2003)
 <h1 align="center">Hi 👋, I'm Apurba Ghosh</h1>
